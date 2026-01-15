@@ -1,6 +1,10 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Mobile Smartcoop 2.0 - Appcast</title>
+        <sparkle:tags>
+            <sparkle:criticalUpdate />
+        </sparkle:tags>
+
         <item>
             <title>Version 100.4.1</title>
             <description>Pilihan vendor saat penarikan uang menggunakan digital payment</description>
