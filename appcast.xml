@@ -1,14 +1,14 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Mobile Smartcoop 2.0 - Appcast</title>
-        <sparkle:tags>
-            <sparkle:criticalUpdate />
-        </sparkle:tags>
-
         <item>
             <title>Version 100.4.1</title>
             <description>Pilihan vendor saat penarikan uang menggunakan digital payment</description>
             <pubDate>Mon, 24 Nov 2025 15:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+
             <enclosure
                 url="https://play.google.com/store/apps/details?id=com.fourvisionmedia.smartcoopAnggota2"
                 sparkle:version="100.4.1" sparkle:os="android" />
