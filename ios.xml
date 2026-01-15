@@ -1,0 +1,17 @@
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Mobile Smartcoop 2.0 - iOS</title>
+        <item>
+            <title>Version 100.4.1</title>
+            <description>Testing iOS</description>
+            <pubDate>Mon, 24 Nov 2025 15:00:00 +0000</pubDate>
+            <sparkle:tags>
+                <sparkle:criticalUpdate />
+            </sparkle:tags>
+
+            <enclosure
+                url="https://apps.apple.com/app/mobile-smartcoop/id6754962881"
+                sparkle:version="100.4.1" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
