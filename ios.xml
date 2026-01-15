@@ -5,9 +5,9 @@
             <title>Version 100.4.1</title>
             <description>Testing iOS</description>
             <pubDate>Mon, 24 Nov 2025 15:00:00 +0000</pubDate>
-            <sparkle:tags>
+            <!-- <sparkle:tags>
                 <sparkle:criticalUpdate />
-            </sparkle:tags>
+            </sparkle:tags> -->
 
             <enclosure
                 url="https://apps.apple.com/app/mobile-smartcoop/id6754962881"
